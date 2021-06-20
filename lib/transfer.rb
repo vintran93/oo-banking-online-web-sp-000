@@ -1,7 +1,7 @@
 class Transfer
   
-  attr_accessor
   attr_reader 
+  attr_accessor
   
   def initialize
   
