@@ -10,7 +10,7 @@ class BankAccount
   end
   
   def deposit(deposit_amount)
-    self.balance = @balance + deposit(amount)
+    self.balance = @balance + depo(amount)sit
   end
   
 end
